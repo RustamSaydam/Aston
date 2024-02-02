@@ -8,6 +8,7 @@ public class ArrayListTask {
         list.add("Rustam Saidam");
         list.add("Jackson Michael");
         list.add("Till Lindemann");
+        list.add("John Kennedy");
 
         System.out.println("All element: " + list);
 
