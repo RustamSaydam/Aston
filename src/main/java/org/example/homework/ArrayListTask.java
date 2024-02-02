@@ -26,6 +26,8 @@ public class ArrayListTask {
 
         list.clear();
         System.out.println("Clear list: " + list);
+
+        quickSort(list);
     }
 
     public static void quickSort(ArrayList<String> list) {
